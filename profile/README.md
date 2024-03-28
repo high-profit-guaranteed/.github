@@ -1,6 +1,8 @@
 # High profit guaranteed
 ## 2024년 1학기 소프트웨어 캡스톤디자인 팀 고수익보장
 
+[Duckling web](http://duckling.d-v.kro.kr)
+
 ## 팀원
 - 황승원 (팀장/BE)
 - 남궁찬 (AI/ML)
